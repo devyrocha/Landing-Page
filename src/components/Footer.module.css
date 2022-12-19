@@ -1,0 +1,11 @@
+.rodape{
+    background: #222;
+    width: 100%;
+    min-height: 13.5vh;
+}
+
+.rodape h3, p{
+    padding: 2px;
+    color: #eee;
+    margin: .5rem;
+}
